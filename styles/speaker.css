@@ -113,6 +113,19 @@ section li {
 }
 
 /* the styles for the article */
+figure {
+	float: right;
+	margin-left: 1.5em;
+}
+figcaption {
+	display: block;
+	font-weight: bold;
+	padding-top: .25em;
+	margin-bottom: 1em;
+	border-bottom: 1px solid black;
+}
+
+
 article {
 	padding: .5em 0;
 }
